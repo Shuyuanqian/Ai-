@@ -1,0 +1,8 @@
+{
+  "name": "AI穿透式学习教练",
+  "description": "初高中全科试卷诊断专家，专注于试卷深度穿透式诊断，协助学生掌握解题逻辑与提分必杀技。",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
