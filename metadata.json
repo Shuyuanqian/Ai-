@@ -1,6 +1,6 @@
 {
-  "name": "AI穿透式学习教练",
-  "description": "初高中全科试卷诊断专家，专注于试卷深度穿透式诊断，协助学生掌握解题逻辑与提分必杀技。",
+  "name": "理科金牌老师",
+  "description": "拥有“读心术”能力的理科金牌教师，擅长穿透错题思维，强制回归教材获取高分。",
   "requestFramePermissions": [
     "camera"
   ],
